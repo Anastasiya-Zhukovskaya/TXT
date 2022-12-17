@@ -1,0 +1,20 @@
+Testing Theory, SDLC, STLC
+Clien-server
+HTTP-methods
+HTTP status-codes
+HTTP resp, req stracture
+JSON
+API Postman
+Logs from servers
+Charles
+Dev Tools
+VPN
+Mobile testing
+IOS
+Android Studio
+terminal Linux
+GitBash,Git
+SQL
+Scrum
+Python
+Jmeter
